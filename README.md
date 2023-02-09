@@ -34,6 +34,7 @@ Joupi==80075==
 ==80075==     in use at exit: 0 bytes in 0 blocks  
 ==80075==   total heap usage: 18 allocs, 18 frees, 1,640 bytes allocated  
 ==80075==   
+<img src="1.jpeg"
 ==80075== All heap blocks were freed -- no leaks are possible  
 ==80075==   
 ==80075== For lists of detected and suppressed errors, rerun with: -s  
@@ -140,3 +141,7 @@ C08 -> Norm ?
   
  
 Gotlub#8595  
+
+<img src="1.png">
+<img src="2.png">
+<img src="3.png">
