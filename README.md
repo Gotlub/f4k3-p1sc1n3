@@ -132,12 +132,9 @@ user    0m0.313s
 sys     0m0.005s  
 [gotlub@fedora]  
    
-  ---EDIT---
-  V2 "twine"  
- 
+
 }  
-C08 -> Norm ?   
- Work 
+
   
  
 Gotlub#8595  
